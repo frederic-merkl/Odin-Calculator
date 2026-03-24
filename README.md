@@ -1,6 +1,6 @@
 # Odin Calculator
 
-[![Live Demo](https://frederic-merkl.github.io/Odin-Calculator/)
+Preview: https://frederic-merkl.github.io/Odin-Calculator/
 
 A functional, state-based calculator built with Vanilla JavaScript. This project focuses on implementing robust calculation logic and handling user inputs via both DOM events and a global keyboard interface.
 
