@@ -2,13 +2,16 @@
 
 Preview: https://frederic-merkl.github.io/Odin-Calculator/
 
+This is my second independent frontend project that I implemented entirely on my own.
+
 A functional, state-based calculator built with Vanilla JavaScript. This project focuses on implementing robust calculation logic and handling user inputs via both DOM events and a global keyboard interface.
 
 ## Core Features
 
 - **Mathematical Operations:** Full implementation of basic arithmetic (addition, subtraction, multiplication, division).
 - **State Management:** Logical separation of `firstNumber`, `secondNumber`, and `operator` to support chained operations.
-- **Input Validation:** - 9-digit limit to prevent layout overflows.
+- **Input Validation:**
+  - 9-digit limit to prevent layout overflows.
   - Dynamic decimal point logic to prevent multiple entries.
   - Division-by-zero protection with error handling.
 - **Advanced Logic:** Integrated percentage calculation and sign toggling (±).
